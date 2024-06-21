@@ -3,8 +3,8 @@ Discord badge bot with slash commands.
 <h4><a href="https://github.com/KanashiiDev/DiscordBadge">(required for Discord Badge)</a><br><br><h4>
 <h1>Setup</h1>
 1 - Open "config.json" and fill required values.<br>
-2 - Open a command prompt and do the following command in the project directory: <br>
-<b><i>node .</i></b>
+2 - Open a command prompt and do the following commands in the project directory: <br>
+<b><i>npm i <br>node .</i></b>
   
 <h1>Bot Commands</h1>
 <b>/bot getbanner</b><br> Create your custom banner.<br><br>
